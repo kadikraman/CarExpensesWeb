@@ -25,6 +25,8 @@
     "watchify": "^2.1.1"
   },
   "dependencies": {
-    "react": "^0.13.3"
+    "griddle-react": "^0.2.13",
+    "react": "^0.13.3",
+    "underscore": "^1.8.3"
   }
 }
