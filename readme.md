@@ -14,6 +14,8 @@ Run dev server:
 gulp
 ```
 
+To see the tests, run the dev server and go to <root>:<port>/testrunner.html
+
 ## Debugging
 - gulp errors out on watch. This is because the system has a limit to how many files can be watched by a user. So we need to increase the max watcher siz
 ```
